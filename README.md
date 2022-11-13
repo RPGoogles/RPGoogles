@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning ...
 -     Assembly Language
 -       68000 Assembly
--       C
--       RP2040 Assembly
+-       Python/Pygame
+-       
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
