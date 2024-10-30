@@ -7,10 +7,11 @@
 -     Raspberyy Pi Pico
 -     Consoles
 -     Japanese
+-     RPG Maker 2003
 - 🌱 I’m currently learning ...
 -     Assembly Language
 -       68000 Assembly
--       Python/Pygame
+-     GDscript
 -       
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
